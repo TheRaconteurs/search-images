@@ -1,0 +1,7 @@
+colorthief==0.2.1
+googletrans==4.0.0rc1
+matplotlib==3.5.1
+nltk==3.7
+Pillow==9.1.1
+scipy==1.7.3
+webcolors==1.3
